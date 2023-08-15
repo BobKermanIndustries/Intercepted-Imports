@@ -1,6 +1,9 @@
 # Intrcepted Imports
  KSP 1 Parts pack that aims to add all the new parts in KSP 2 with custom Restock alike models and textures
 
+ IMPORTANT!
+ All parts in this mod were re-created from scratch based on screenshots of Kerbal Space Program 2. They were NOT illegally ripped from the game.
+
  **Author:** Bob Kerman Industries, blehh
 
  **License:** MIT
