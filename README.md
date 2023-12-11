@@ -14,6 +14,7 @@
   - ModuleManager
   - B9PartSwitch
   - Restock
+  - Stockalike Station Parts Redux
 
  ===How To Install===
  1. Ensure that you have all of the aforementioned dependencies installed
